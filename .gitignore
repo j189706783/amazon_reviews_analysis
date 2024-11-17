@@ -1,0 +1,12 @@
+#about dataset
+*.csv
+*.xlsx
+*.txt
+
+#others
+overAll.png
+*.zip
+*.twbx
+*.twbr
+*.pages
+.DS_Store
